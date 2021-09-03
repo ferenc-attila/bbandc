@@ -1,2 +1,3 @@
-# bbandc
-Bamboo Breakfast &amp; Cofeee
+# Bamboo Breakfast &amp; Cofeee
+
+This site was created to practice the bases of web development. The idea for the content on the page comes from my daughter who wants to create a restaurant.
