@@ -101,3 +101,9 @@ body {
 .topBtn {
     background-color: rgb(182, 211, 184);
 }
+
+#carouselDiv {
+    background-color: rgb(221, 230, 215);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
