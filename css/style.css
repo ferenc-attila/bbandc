@@ -81,6 +81,8 @@ body {
     margin-top: 15px;
     margin-bottom: 25px;
     padding: 15px;
+    position: fixed;
+    bottom: 0;
 }
 
 #brandInitial {
@@ -106,4 +108,13 @@ body {
     background-color: rgb(221, 230, 215);
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+#navDiv {
+    position: fixed;
+}
+
+.mainContainer {
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
